@@ -1,4 +1,4 @@
-# Project Rubric (Placeholder)
+# Project Rubric (To be updates)
 
 - Data sourcing + provenance (15%)
 - ETL pipeline quality (25%)
