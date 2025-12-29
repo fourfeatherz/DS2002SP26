@@ -6,7 +6,7 @@
 - Teams is communication.
 
 Due Dates:
-- Friday labs due Sunday 11:59pm (unless Canvas says otherwise).
-- Homework due Monday 11:59pm.
+- Friday labs due Sunday 11:59pm.
+- Homework due Monday 11:59pm (unless Canvas says otherwise).
 
 This repo contains placeholders for every notebook by date.
