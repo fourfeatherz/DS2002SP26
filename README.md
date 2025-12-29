@@ -1,26 +1,23 @@
-# DS2002 — Data Science Systems (Spring 2026) — Kaggle-Only Workflow
+# DS2002 — Data Science Systems (Spring 2026) — Workflow
 
-Welcome. This repo is **your official record of work** for DS2002.
+Welcome to DS2002. This repo is **your official record of work** for DS2002.
 
-- **Do all analysis in Kaggle Notebooks.**
-- **Turn in links in Canvas.**
+- **Do all coding/analysis in Kaggle Notebooks.**
+- **Turn in links to your repos in Canvas.**
 - Use this GitHub repo to **version, organize, and present** your work professionally.
 
 ---
 
 ## Quick Start (What you do every week)
 
-1. **Open the week’s notebook in Kaggle** (course will provide the starter notebook).
+1. **Open the week’s notebook in Kaggle** (We will usually go over in class).
 2. Do the work in Kaggle.
 3. **Download the notebook (`.ipynb`) from Kaggle** when you’re ready to submit.
 4. Put the file in the correct folder in this repo.
 5. **Commit + push**.
 6. Submit your **GitHub repo link (and Kaggle link if asked)** in Canvas.
 
-If you can do those 6 steps, you’re basically unstoppable.
-
 ---
-
 ## Non‑Negotiables (Read this once, save yourself pain)
 
 ### Kaggle-only
@@ -31,8 +28,8 @@ If you choose to run elsewhere, you’re on your own for debugging environment i
 Grades, due dates, submissions, and feedback live in **Canvas**.
 
 ### Teams is for conversation
-Questions go to the **Teams channels** (not email).  
-DMs are for private matters only.
+Questions go to the **Teams channels** (perferable over email) since others can learn from you.  
+DMs are for private things you need to let me know about.
 
 ---
 
@@ -43,8 +40,8 @@ Every notebook in this course uses:
 `YYYY-MM-DD — Topic — Type.ipynb`
 
 Where **Type** is one of:
-- `Lecture` (instructor-led examples)
-- `Studio` (guided in-class build)
+- `Lecture` (my examples in class)
+- `Studio` (guided in-class build Usually on Wednesday)
 - `Lab` (Friday hands-on)
 - `Homework` (weekend extension)
 - `Template` (project scaffold)
@@ -60,7 +57,7 @@ Example:
 
 Unless Canvas says otherwise, you submit:
 
-1. **Your GitHub repo link** (this repo)
+1. **Your GitHub repo link** 
 2. The `.ipynb` file(s) for the assignment in the correct folder
 3. A short write-up in Markdown **inside the notebook**
 
@@ -114,7 +111,7 @@ If you submit a notebook that doesn’t run, it will be graded as-is.
   README templates, project scaffolds, submission checklists
 
 - `rubrics/`  
-  Grading rubrics (as provided)
+  Grading rubrics
 
 - `data/sample/`  
   Tiny sample data only (do not commit large datasets)
@@ -140,7 +137,7 @@ Tip: keep a consistent commit message pattern, e.g.:
 
 - You may collaborate as allowed by the assignment.
 - You may discuss approaches and debug together.
-- You may NOT copy/paste someone else’s finished notebook or text.
+- You may NOT copy/paste someone else’s finished notebook or text UNLESS you are working in a group. I'll let you know when.
 
 When in doubt: ask in Teams.
 
@@ -149,7 +146,7 @@ When in doubt: ask in Teams.
 ## Need help?
 
 - Ask in **Teams** first (so others benefit)
-- If it’s personal/private: DM the instructor
+- If it’s personal/private: DM the me
 
 ---
 
@@ -160,4 +157,4 @@ When in doubt: ask in Teams.
 
 ---
 
-*Last updated: Spring 2026.*
+*Last updated: Dec 2025.*
